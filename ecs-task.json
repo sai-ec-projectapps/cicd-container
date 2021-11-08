@@ -1,10 +1,10 @@
 {
-	"family": "demo",
+	"family": "hello",
 	"networkMode": "awsvpc",
 	"containerDefinitions": [
 		{
 		"name": "myapp",
-		"image": "public.ecr.aws/x9x4f1r6/sai:latest",
+		"image": "627132480298.dkr.ecr.ap-south-1.amazonaws.com/one:latest",
 		"portMappings": [
 			{
 			"containerPort": 8080,
