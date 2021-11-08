@@ -7,7 +7,7 @@
 		"image": "public.ecr.aws/x9x4f1r6/kumar:latest",
 		"portMappings": [
 			{
-			"containerPort": 7000,
+			"containerPort": 8080,
 			"hostPort": 8080,
 			"protocol": "tcp"
 		}
